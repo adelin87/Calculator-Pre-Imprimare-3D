@@ -2,7 +2,7 @@
 
 Un calculator simplu și eficient pentru a estima costul unei piese imprimate 3D, util atât pentru hobby, cât și pentru afaceri.
 
-🔗 [Demo live (exemplu)](https://calculatorpretimprimare3d.created.app/) *(înlocuiește cu link-ul tău dacă ai unul)*
+🔗 [Demo live](https://calculatorpretimprimare3d.created.app/) *(înlocuiește cu link-ul tău dacă ai unul)*
 
 ---
 
