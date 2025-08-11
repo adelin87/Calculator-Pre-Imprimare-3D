@@ -51,4 +51,4 @@ Responsive pe desktop și mobil.
 
 1. Clonează repo-ul:
    ```bash
-   git clone https://github.com/username/calculator-imprimare-3d.git
+   git clone https://github.com/adelin87/Calculator-Pre-Imprimare-3D.git
